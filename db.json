@@ -1,0 +1,73 @@
+{
+  "books": [
+    {
+      "id": "e01bf142-ea0b-42e4-bd79-4838f9b9d0db",
+      "title": "The Unnamable, the trilogy",
+      "author": "Samuel Beckett",
+      "category": "Fiction",
+      "ISBN": "1234999999999",
+      "created": "",
+      "edited": "2022-09-19T08:22:07.112Z",
+      "active": false
+    },
+    {
+      "id": "7983e431-77ac-494b-a18a-8d52da66787e",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "category": "Romance",
+      "ISBN": "5678000000000",
+      "created": "",
+      "edited": "2022-09-18T19:34:10.462Z",
+      "active": true
+    },
+    {
+      "id": "ef02b600-9a41-4ba6-b28e-99a2e1f63253",
+      "title": "The Stranger",
+      "author": "Albert Camus",
+      "category": "Classics",
+      "ISBN": "86995",
+      "created": "",
+      "edited": "",
+      "active": true
+    },
+    {
+      "id": "348aec29-3d32-4889-8efb-89e9217f144f",
+      "title": "Great Expectations",
+      "author": "Charles Dickens",
+      "category": "Tragedy",
+      "ISBN": "6775",
+      "created": "",
+      "edited": "",
+      "active": true
+    },
+    {
+      "id": "d7082179-0b85-40fe-86dd-0c0de8edb812",
+      "title": "Madame Bovary",
+      "author": "Gustave Flaubert",
+      "category": "Classics",
+      "ISBN": "5353",
+      "created": "",
+      "edited": "",
+      "active": true
+    },
+    {
+      "id": "05c86f18-d759-43b1-9ebb-7f8ecf14c537",
+      "title": "Faust",
+      "author": "Johann Wolfgang von Goethe",
+      "category": "Tragedy",
+      "ISBN": "9222",
+      "created": "",
+      "edited": "",
+      "active": true
+    },
+    {
+      "id": "e558b15e-985a-46e9-a1a8-e18e51227f8e",
+      "title": "dd",
+      "author": "dd",
+      "category": "Romance",
+      "ISBN": "44",
+      "created": "2022-09-19T14:10:25.141Z",
+      "active": true
+    }
+  ]
+}
